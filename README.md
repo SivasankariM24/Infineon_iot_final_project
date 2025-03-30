@@ -1,1 +1,1 @@
-# Infineon_iot_final_project
+A simple python code using function to check whether a number is odd or even
