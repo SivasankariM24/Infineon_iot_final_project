@@ -174,4 +174,4 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ by Team Infineon**
+**Made by Team Infineon**
